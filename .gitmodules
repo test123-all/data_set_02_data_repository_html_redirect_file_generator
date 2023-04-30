@@ -1,0 +1,3 @@
+[submodule "sensor/data_subset_manufacturer_03_data_repository_site_generator"]
+	path = sensor/data_subset_manufacturer_03_data_repository_site_generator
+	url = git@git.rwth-aachen.de:fst-tuda/projects/designing-with-fluids/hydropulser/data_subset_manufacturer_03_data_repository_site_generator.git
