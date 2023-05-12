@@ -1,3 +1,4 @@
 [submodule "sensor/data_subset_manufacturer_03_data_repository_site_generator"]
 	path = sensor/data_subset_manufacturer_03_data_repository_site_generator
 	url = git@git.rwth-aachen.de:fst-tuda/projects/rdm/metadata_repo_site/data_subset_manufacturer_03_data_repository_site_generator.git
+	url = ../data_subset_manufacturer_03_data_repository_site_generator.git
