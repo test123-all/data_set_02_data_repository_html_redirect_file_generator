@@ -1,0 +1,4 @@
+[submodule "sensor/data_subset_manufacturer_03_data_repository_html_redirect_file_generator"]
+	path = sensor/data_subset_manufacturer_03_data_repository_html_redirect_file_generator
+	url = git@git.rwth-aachen.de:fst-tuda/public/html-redirect-file-generator/data_subset_manufacturer_03_data_repository_html_redirect_file_generator.git
+	url = ../data_subset_manufacturer_03_data_repository_html_redirect_file_generator.git
